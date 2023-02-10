@@ -5,10 +5,10 @@ import { NextSeo } from 'next-seo';
 const config: DocsThemeConfig = {
   useNextSeoProps() {
     return {
-      titleTemplate: "%s - ABC Dev",
+      titleTemplate: "%s - ABC News Github",
     };
   },
-  logo: <span>ABC Dev</span>,
+  logo: <span>ABC News Github</span>,
   project: {
     link: "https://github.com/abcnews",
   },
@@ -18,7 +18,7 @@ const config: DocsThemeConfig = {
   docsRepositoryBase:
     "https://github.com/abcnews/abcnews.github.io/tree/nextra",
   footer: {
-    text: "ABC News",
+    text: "ABC News Github",
   },
 };
 
