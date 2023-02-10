@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   // chat: {
   //   link: 'https://discord.com',
   // },
-  docsRepositoryBase: 'https://github.com/abcnews/abcnews.github.io/tree/main',
+  docsRepositoryBase: 'https://github.com/abcnews/abcnews.github.io/tree/nextra',
   footer: {
     text: 'ABC News',
   },
