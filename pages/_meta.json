@@ -5,6 +5,9 @@
     "type": "page"
   },
   "contact": {
+  "display": "hidden"
+  },
+  "contact": {
     "title": "Contact ↗",
     "type": "page",
     "href": "https://www.abc.net.au/news/contact/",
