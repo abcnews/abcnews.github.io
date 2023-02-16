@@ -1,3 +1,5 @@
 {
-  "blog": "hidden"
+  "blog": {
+    display: "hidden"
+  }
 }
